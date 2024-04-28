@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi, I'm orisoso 👋</h1>
+<h1 align="center">Hi, I'm Oriol Soldevila 👋</h1>
 <p align="center">
   <strong><code>🎓 Computer Engineering Student at Universitat de Lleida (UdL)</code></strong>
 </p>
