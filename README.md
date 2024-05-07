@@ -1,8 +1,3 @@
-<div>
-  <img src="https://github.com/orisoso/orisoso/assets/67429315/1b2470d9-4845-42ae-8c86-f1ae6c4b9dd6" alt="Banner" style="width: 100vw; height: 300px;">
-</div>
-
-
 <h1 align="center">Hi, I'm Oriol Soldevila 👋</h1>
 <p align="center">
   <strong><code>🎓 Computer Engineering Student at Universitat de Lleida (UdL)</code></strong>
