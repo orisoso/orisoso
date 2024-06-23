@@ -13,6 +13,6 @@
 
 <h3 align="left">Tools & Languages 🫣</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,clion,css,html,git,github,linux,tensorflow,py,java,idea,pycharm"/><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,git,github,linux,py,java,idea"/><br>
 </a>
 
